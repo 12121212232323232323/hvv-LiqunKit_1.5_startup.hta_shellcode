@@ -1,1 +1,1 @@
-最近有工具比较火https://github.com/Liqunkit/LiqunKit_。里面有startup.hta。是执行powershell加载shellcode。powershell样本和shellcode样本
+最近有工具比较火https://github.com/Liqunkit/LiqunKit_。里面有startup.hta。是执行powershell加载shellcode。powershell样本和shellcode样本。这个是给我们的目标所用的hta。毕竟作者说没后门。
